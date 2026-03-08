@@ -1,6 +1,12 @@
 <h1 align="center">Underground Cable Fault Detection System</h1>
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Arduino IDE-00979D?style=for-the-badge">
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge">
+
 Simulation-based system for detecting and locating faults in underground power cables using the voltage drop principle.
 </p>
 
